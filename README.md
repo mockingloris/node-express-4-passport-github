@@ -30,6 +30,6 @@ I will try to update this readme... hope you have an idea how it works when you
 see the code. Especially my use of the handlebars templating engine.
 
 Also note that the node engine I used for this project is Node 6, you will see the
-Version on the package.json file.
+version on the package.json file.
 
-For now you can only get the user email and name. I'm working on getting the repos as well.
+For now you can only get the user email and name. I'm working on getting the user's repos as well.
