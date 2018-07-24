@@ -18,8 +18,8 @@ Make sure to configure the mongodb uri on gh-auth.js
 ## Running The APP
 
 ```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd AUTH-GITHUB
+$ git clone git@github.com:mockingloris/node-express-4-passport-github.git
+$ cd node-express-4-passport-github
 $ npm install
 $ npm start
 ```
